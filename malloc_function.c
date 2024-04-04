@@ -11,7 +11,7 @@ int main(){
 		exit(0);
 		
 	}
-		printf(" enter the element"\n);
+		printf(" enter the element");
 		for(i=0;i<n;i++){
 			scanf("%d",ptr + 1);
 			sum += *(ptr + 1);
